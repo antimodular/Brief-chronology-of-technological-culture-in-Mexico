@@ -1,4 +1,4 @@
-![](images/a.png)
+![](https://github.com/antimodular/Brief-chronology-of-technological-culture-in-Mexico/blob/main/images/a.jpg)
 # Brief chronology of technological culture in Mexico
 
 [RAFAEL LOZANO-HEMMER](http://lozano-hemmer.com) · Feburary 1, 2023
