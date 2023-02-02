@@ -1,4 +1,3 @@
-![](./images/a.jpg =250x)
 <img src="./images/a.jpg" width="200" height="200" />
 # Brief chronology of technological culture in Mexico
 
