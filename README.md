@@ -1,5 +1,5 @@
 ![](./images/a.jpg =250x)
-<img src="https://github.com/antimodular/Brief-chronology-of-technological-culture-in-Mexico/blob/main/images/a.jpg" width="200" height="200" />
+<img src="./images/a.jpg" width="200" height="200" />
 # Brief chronology of technological culture in Mexico
 
 [RAFAEL LOZANO-HEMMER](http://lozano-hemmer.com) · Feburary 1, 2023
