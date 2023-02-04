@@ -6,19 +6,21 @@
 
 This is an incomplete and idiosyncratic list of intersections of technology and culture in Mexico compiled by Rafael Lozano-Hemmer and Tracy Valcourt.
 
----
+===
 ### From Teosinte to Corn - 7,000 BC
 
 Corn is the result of artificial selection of grains of Teosinte grass over many generations of indigenous people in Guerrero, around 9,000 years ago. Without the artificial selection of seeds Teosinte would not have naturally developed into the large corn cobs that we know today.
 
 <img src="./images/From Teosinte to Corn.jpeg" height="200" alt="From Teosinte to Corn"/>
 
+------
 ### Milpa - 3,000 BC
 
 Biodiverse Mesoamerican agriculture system that offers nutritionally and environmentally complementary crops, typically corn (carbohydrates), beans (lysine and typtophan to make proteins), cucurbita pepo squash (vitamins) and avocados (fats).
 
 <img src="./images/Milpa.jpeg" height="200" alt="Milpa"/>
 
+------
 ### Banderoles and Volutes - ca 650 BC
 
 In art history a speech scroll (also called a volute, banderole or phylactery) is an illustrative device denoting speech, song, or other types of sound. The device was in use by artists within Mesoamerican cultures from as early as 650 BC until after the in the Spanish conquest in the 16th century. While similar European medieval speech-scrolls were drawn as if they were an actual strip of parchment, Mesoamerican volutes follow the rules of fluid-dynamics such as Navier-Stokes equations, creating eddies and turbulence in the air.
