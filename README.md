@@ -4,7 +4,7 @@
 
 [RAFAEL LOZANO-HEMMER](http://lozano-hemmer.com) · Feburary 1, 2023
 
-This is an incomplete and idiosyncratic list of intersections of technology and culture in Mexico compiled by Rafael Lozano-Hemmer and Tracy Valcourt.
+This is an incomplete and idiosyncratic list of intersections of technology and culture in Mexico compiled by Rafael Lozano-Hemmer and Tracy Valcourt. It was originally written to accompany the exhibition “Rafael Lozano-Hemmer: TECHS-MECHS” at Gray Area Art Center in San Francisco. It includes contributions from before 1980.
 
 ---
 
