@@ -233,11 +233,12 @@ Morton Heilig proposed total interactive immersion in his essay "Cinema of the F
 <br/>
 
 ### Manuel M. López - 1958
-<br clear="left"/>
-<br/>
+<img align="left" height="200" style="Padding: 0px 10px 0px 0px" src="./images/Manuel M. López.jpeg" height="200" alt="Manuel M. López"/>
+
 Chicano from Mount Carmel Illinois, patented an automated accelerator control device, precursor to the "cruise control" system existing in current cars, which used a fluid pressure actuated servomechanism. López invented this to facilitate his yearly drive back to Mexico, over 2,000 Km away.
 
-<img align="left" height="200" style="Padding: 0px 10px 0px 0px" src="./images/Manuel M. López.jpeg" height="200" alt="Manuel M. López"/>
+<br clear="left"/>
+<br/>
 
 ### Mario Molina - 1974
 <img align="left" height="200" style="Padding: 0px 10px 0px 0px" src="./images/Mario Molina.jpeg" height="200" alt="Mario Molina"/>
