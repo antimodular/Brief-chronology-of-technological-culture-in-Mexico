@@ -59,7 +59,7 @@ Polymath and writer Carlos de Sigüenza y Góngora wrote the book _Philosophical
 
 Writer, philosopher, composer, and poet of the Baroque period, Sor Juana joined a Hieronymite nunnery in 1667, and began writing poetry and prose dealing with such topics as love, environmentalism, feminism, and religion. Her poem "Primero Sueño" (First Dream), written in 1692, is an ode to knowledge, clarity and rationalism.
 
-<img src="./images/Sor Juana Inés de la Cruz.jpeg" height="200" alt="Sor Juana Inés de la Cruz"/>
+<img src="./images/Sor Juana Ines de la Cruz.jpeg.jpeg" height="200" alt="Sor Juana Inés de la Cruz"/>
 
 ### Manuel Antonio de Rivas - 1775
 
@@ -199,7 +199,7 @@ Pioneering interdisciplinary artist active in performance, installations, televi
 
 <img src="./images/Maris Bustamente.jpeg" height="200" alt="Maris Bustamente"/>
 
-Other contemporaries to consider:
+### Other contemporaries to consider:
 
 Iván Abreu
 
