@@ -6,7 +6,7 @@
 
 This is an incomplete and idiosyncratic list of intersections of technology and culture in Mexico compiled by Rafael Lozano-Hemmer and Tracy Valcourt.
 
-===
+-
 ### From Teosinte to Corn - 7,000 BC
 
 Corn is the result of artificial selection of grains of Teosinte grass over many generations of indigenous people in Guerrero, around 9,000 years ago. Without the artificial selection of seeds Teosinte would not have naturally developed into the large corn cobs that we know today.
