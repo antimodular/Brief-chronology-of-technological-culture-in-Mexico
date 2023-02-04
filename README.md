@@ -1,4 +1,4 @@
-<img src="./images/a.jpg" width="200" height="200" />
+
 
 # Brief chronology of technological culture in Mexico
 
@@ -9,44 +9,44 @@ This is an incomplete and idiosyncratic list of intersections of technology and 
 ### From Teosinte to Corn - 7,000 BC
 
 Corn is the result of artificial selection of grains of Teosinte grass over many generations of indigenous people in Guerrero, around 9,000 years ago. Without the artificial selection of seeds Teosinte would not have naturally developed into the large corn cobs that we know today.
-
-![](RackMultipart20230204-1-jvteqf_html_b5075146bdf1398e.jpg)
+<img src="./images/From Teosinte to Corn.jpeg" width="200" height="200" alt="From Teosinte to Corn"/>
 
 ### Milpa - 3,000 BC
 
 Biodiverse Mesoamerican agriculture system that offers nutritionally and environmentally complementary crops, typically corn (carbohydrates), beans (lysine and typtophan to make proteins), cucurbita pepo squash (vitamins) and avocados (fats).
 
-![](RackMultipart20230204-1-jvteqf_html_fa401546f45b80fc.jpg)
+<img src="./images/Milpa.jpeg" width="200" height="200" alt="Milpa"/>
+
 
 ### Banderoles and Volutes - ca 650 BC
 
 In art history a speech scroll (also called a volute, banderole or phylactery) is an illustrative device denoting speech, song, or other types of sound. The device was in use by artists within Mesoamerican cultures from as early as 650 BC until after the in the Spanish conquest in the 16th century. While similar European medieval speech-scrolls were drawn as if they were an actual strip of parchment, Mesoamerican volutes follow the rules of fluid-dynamics such as Navier-Stokes equations, creating eddies and turbulence in the air.
 
-![](RackMultipart20230204-1-jvteqf_html_26eedd3a14e83409.jpg)
+<img src="./images/Banderoles and Volutes.jpeg" width="200" height="200" alt="Banderoles and Volutes"/>
 
 ### Mayan Zero - ca 350
 
 The number zero was used as a placeholder by Mayans over 100 years before it first was used algorithmically in India in 458. Contrary to the Indian zero, which represented emptiness or vacuum, in Mexico zero represented totality, everything.
 
-![](RackMultipart20230204-1-jvteqf_html_be88456fdcf9d1e2.png)
+<img src="./images/Milpa.jpeg" width="200" height="200" alt="Milpa"/>
 
 ### Uxmal - ca 500
 
 The ancient Mayan city features The Governor's Palace which is a classic example of archaeoastronomy, as it is oriented so that every eight years Venus intersects it as seen from the Cehtzuc pyramid 5Km away. This is no coincidence as the Palace has almost 400 glyphs signifying Venus on its facade.
 
-![](RackMultipart20230204-1-jvteqf_html_63ff1f560ab9ec06.jpg)
+<img src="./images/Milpa.jpeg" width="200" height="200" alt="Milpa"/>
 
 ### Chinampas - ca 1150
 
 Artificial islands or floating gardens created by interweaving reeds, stakes, fertile arable soil, drainage systems, and often secured and protected by bonpland willow and cypress trees. Chinampas were developed by the Aztecs to extend land and grow crops that needed no irrigation and could yield up to 7 harvests a year.
 
-![](RackMultipart20230204-1-jvteqf_html_f140683f0bddbe3c.jpg)
+<img src="./images/Milpa.jpeg" width="200" height="200" alt="Milpa"/>
 
 ### Bartolomé de Medina - 1554
 
 In Pachuca Hidalgo, Bartolomé de Medina Invented and patented the "Patio process" to extract silver from ore by using mercury amalgamation, brine and copper sulfate as a catalyst. This invention greatly diminished the trade in African enslaved people.
 
-![](RackMultipart20230204-1-jvteqf_html_9c517249578e408f.jpg)
+<img src="./images/Milpa.jpeg" width="200" height="200" alt="Milpa"/>
 
 ### Carlos de Sigüenza y Góngora - 1681
 
