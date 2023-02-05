@@ -170,7 +170,7 @@ Born in Tampico, Esquivel was an electrical engineer, band leader, pianist and c
 
 <img src="./images/Juan García Esquivel.jpeg" height="200" alt="Juan García Esquivel"/>
 
-### Morton Heilig 1955
+### Morton Heilig - 1955
 
 Morton Heilig proposed total interactive immersion in his essay "Cinema of the Future", written while living in Cuernavaca in 1955. While in Mexico, he developed what many consider to be the first virtual reality experience, with his "Sensorama" Simulator which aimed to stimulate four of the five senses: sight, hearing, smell and touch.
 
@@ -194,7 +194,7 @@ Abstract artist from Zacatecas who worked with computer programming as early as 
 
 <img src="./images/Manuel Felguérez.jpeg" height="200" alt="Manuel Felguérez"/>
 
-### Maris Bustamente 1979
+### Maris Bustamente - 1979
 
 Pioneering interdisciplinary artist active in performance, installations, television broadcasts and _contraespectáculos_ (anti-shows), featuring critical, poetic, humorous, feminist work. As a commentary of the system of cultural property, identity and control, in 1979 she patented the Taco.
 
