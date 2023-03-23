@@ -62,17 +62,35 @@ Writer, philosopher, composer, and poet of the Baroque period, Sor Juana joined 
 
 <img src="./images/Sor Juana Ines de la Cruz.jpeg" height="200" alt="Sor Juana Inés de la Cruz"/>
 
+### José Antonio de Alzate y Ramírez - 1772
+
+A nephew of Sor Juana, Alzate was a scientist, philosopher, cartographer and historian who first ascribed the psychedelic effect of entheogenic plants, such as pipiltzintzintli, to natural causes and not the work of the devil. He defended the pre-Columbian use of ololiuqui plants for their anesthetic qualities, and he actively fought for the legislation of medical cannabis. The Antonio Alzate Scientific Society was created in 1884 and later became the National Academy of Sciences in Mexico.
+
+<img src="./images/José Antonio de Alzate y Ramírez.jpeg" height="200" alt="José Antonio de Alzate y Ramírez"/>
+
 ### Manuel Antonio de Rivas - 1775
 
 Friar Manuel Antonio de Rivas from Mérida wrote "Syzygies and Lunar Quadratures" in 1775. This is considered the first Science Fiction text written in the Americas and included lunar travel, the location of hell in the Sun and doubts about Biblical chronology, for which he was the subject of an inquisition.
 
 <img src="./images/Manuel Antonio de Rivas.jpeg" height="200" alt="Manuel Antonio de Rivas"/>
 
+### José Antonio de Alzate y Ramírez - 1790
+
+The great scientist invented the automatic float shutter, the air-filled float in the tank of the great majority of toilets, but also found in all sorts of industrial vats and irrigation systems. This invention has helped greatly reduce the waste of water.
+
+<img src="./images/José Antonio de Alzate y Ramírez-2.jpeg" height="200" alt="José Antonio de Alzate y Ramírez"/>
+
 ### Andrés Manuel del Río - 1801
 
 Scientist Andrés Manuel del Río, author of the first mineralogy book in America, contemporary of Lavoisier and Von Humboldt, discovered the metallic element Vanadium from mineral samples from Hidalgo. Vanadium is a key component of many steel alloys, among other contemporary uses.
 
 <img src="./images/Andrés Manuel del Río.jpeg" height="200" alt="Andrés Manuel del Río"/>
+
+### Leona Vicario and Josefa Ortiz de Domínguez - 1810
+
+Mexican feminists who informed, funded, planned and aided the War of Independence from Spain. As the first journalist in Mexico, Vicario encrypted her printed messages in a code that could only be deciphered by the "Los Guadalupes" insurgent group. Separately, Ortiz de Domínguez triggered the insurrection itself, despite being held captive, by tapping a code with her heels so that warden Ignacio Pérez would warn independentists Hidalgo and Allende that they had been betrayed.
+
+<img src="./images/Leona Vicario and Josefa Ortiz de Domínguez.jpeg" height="200" alt="Leona Vicario and Josefa Ortiz de Domínguez"/>
 
 ### Ignacio Ramírez "El Nigromante" - 1836
 
@@ -86,6 +104,18 @@ In the World's Fair in Paris, inventor and philosopher Juan Nepomuceno Adorno pr
 
 <img src="./images/Juan Nepomuceno Adorno.jpeg" height="200" alt="Juan Nepomuceno Adorno"/>
 
+### Francisco Estrada Murguía - 1868
+
+Inventor born in San Luis Potosí who, among other advancements, designed an electrical generator dynamo that greatly improved DC output compared to Pacinotti's invention. He sent his designs to be fabricated by French house Breguet, which did not reply and instead built them for Belgian Zénobe Gramme two years later, and this became a staple in industry.
+
+<img src="./images/Francisco Estrada Murguía.jpeg" height="200" alt="Francisco Estrada Murguía"/>
+
+### Francisco Estrada Murguía - 1886
+
+The inventor patented a wireless system to communicate with moving trains, using a Ruhmkorff induction coil that would emit morse code discharges. This was 10 years before Marconi's own wireless communication.
+
+<img src="./images/Francisco Estrada Murguía-2.jpeg" height="200" alt="Francisco Estrada Murguía"/>
+
 ### Julián Carrillo - 1895
 
 Julián Carrillo was a composer from San Luis Potosí who proposed microtonal music in 1895, using intervals smaller than half tones. He promoted and perfected his "Thirteenth sound" theory and in 1940 patented fifteen metamorphoser pianos to play his music, —these won the gold medal at the Brussels' World Expo in 1958.
@@ -97,6 +127,18 @@ Julián Carrillo was a composer from San Luis Potosí who proposed microtonal mu
 Developed an experimental science called plasmogeny, concerned with the origin of protoplasm, the living material of which all animals and plants are made. He experimented with creating artificial cells that could have life-like behaviours, for example with sulphobe films, composed of formaldehyde and thiocyanates. He demonstrated the non-biological synthesis of organic compounds, but did not define the boundary between living and inanimate matter.
 
 <img src="./images/Alfonso Luis Herrera.jpeg" height="200" alt="Alfonso Luis Herrera"/>
+
+### Manuel Mondragón - 1904
+
+General Mondragón patented the world's first gas-operated semi-automatic rifle, the Mondragón rifle, designated the M1908. The rifle was used by Mexican forces in the Mexican Revolution, making Mexico the first nation to use a semi-automatic rifle in battle, in 1911.
+
+<img src="./images/Manuel Mondragón.jpeg" height="200" alt="Manuel Mondragón"/>
+
+### Juan Guillermo Villasana - 1915
+
+Pioneer aviation figure in Mexico, he designed the "Anahuac Propeller" which used a novel assembly approach using different types of wood. In 1919 this propeller broke the altitude world record which was 19,750 ft at the time.
+
+<img src="./images/Juan Guillermo Villasana.jpeg" height="200" alt="Juan Guillermo Villasana"/>
 
 ### Eduardo Urzáiz - 1919
 
@@ -157,6 +199,12 @@ Developed and perfected the use of thin shells of reinforced concrete, popularly
 Chemist who developed and perfected the first commercially available acrylic paints at the Instituto Politécnico Nacional in Mexico City. Gutiérrez was a part of Siqueiros' experimental studio in New York in 1935 and he developed a modern high-viscosity emulsion compared to the original BASF acrylic resin from the 1930s. In 1958 Rufino Tamayo painted his mural at UNESCO with Gutiérrez' acrylic paints.
 
 <img src="./images/José Luis Gutiérrez.jpeg" height="200" alt="José Luis Gutiérrez"/>
+
+### Raúl Pavón - 1960
+
+Mexico City engineer invented the "Omnifón" a small electronic musical instrument that featured an oscillator with multiple waveform outputs, a variety of filters, an envelope generator, a white noise generator and a keyboard, among other materials. This was among the first electronic sound synthesizers built, predating instruments by Donald Buchla and Robert Moog.
+
+<img src="./images/Raúl Pavón.jpeg" height="200" alt="Raúl Pavón"/>
 
 ### Heberto Castillo - 1966
 
